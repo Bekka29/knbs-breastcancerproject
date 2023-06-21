@@ -20,4 +20,18 @@ Training,test and validation sets are created with data loaders.
 Plot accuracy and losses.
 4. Testing of model
 
+**REFERENCES**
+
+1.Bhowmik A, Eskreis-Winkler S. Deep learning in breast imaging. BJR Open. 2022 May 13;4(1):20210060. doi: 10.1259/bjro.20210060. PMID: 36105427; PMCID: PMC9459862.
+
+2.Arnold M, Morgan E, Rumgay H, Mafra A, Singh D, Laversanne M, Vignat J, Gralow J R, Cardoso F, Siesling S, Soerjomataram I, Current and future burden of breast cancer: Global statistics for 2020 and 2040, The Breast, Volume 66,2022, Pages 15-23,ISSN 0960-9776, https://doi.org/10.1016/j.breast.2022.08.010.
+(https://www.sciencedirect.com/science/article/pii/S0960977622001448)
+
+3.Malhotra P, Gupta S, Koundal D, Zaguia A, Enbeyle W. Deep Neural Networks for Medical Image Segmentation. J Healthc Eng. 2022 Mar 10;2022:9580991. doi: 10.1155/2022/9580991. PMID: 35310182; PMCID: PMC8930223.
+
+4.Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. In: Navab, N., Hornegger, J., Wells, W., Frangi, A. (eds) Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015. MICCAI 2015. Lecture Notes in Computer Science(), vol 9351. Springer, Cham. https://doi.org/10.1007/978-3-319-24574-4_28
+
+5.https://www.kaggle.com/code/saidislombek/biomedical-image-segmentation-with-u-net/notebook
+
+6. Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images. Data in Brief. 2020 Feb;28:104863. DOI: 10.1016/j.dib.2019.104863.
 
